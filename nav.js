@@ -9,7 +9,9 @@
     ['맛집',       'https://bandorigall.github.io/banggall_food.github.io/'],
     ['걸파툴',     'https://bandorigall.github.io/tools_girlsbandparty.github.io/'],
     ['로젤내한',   'https://bandorigall.github.io/roselia_korea.github.io/'],
-    ['생일페이지', 'https://bandorigall.github.io/others.github.io/birthday/']
+    ['생일페이지', 'https://bandorigall.github.io/others.github.io/birthday/'],
+    ['마이고라이브', 'https://bandorigall.github.io/others.github.io/mygo_live/'],
+    ['기타도감',    'https://bandorigall.github.io/others.github.io/guitar/']
   ];
 
   var curPath = location.pathname.replace(/index\.html$/, '');
